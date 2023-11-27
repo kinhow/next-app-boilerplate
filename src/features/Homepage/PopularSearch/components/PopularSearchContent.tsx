@@ -1,5 +1,5 @@
 const PopularSearch = () => {
-  console.log("here");
+  console.log("Hello World!");
   return <h2>PopularSearch</h2>;
 };
 
