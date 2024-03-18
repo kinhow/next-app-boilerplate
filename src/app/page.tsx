@@ -1,12 +1,21 @@
-import Link from "next/link";
+import React from "react";
+import { css } from "../../styled-system/css";
 
-const Homepage = () => {
+const Home = () => {
   return (
-    <>
-      <div>Homepage</div>
-      <Link href="/listing">Go to</Link>
-    </>
+    <div
+      className={css({
+        height: "svh",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        fontSize: "3xl",
+        fontWeight: "extrabold",
+      })}
+    >
+      <p>BUILD YOUR PROJECT HERE...</p>
+    </div>
   );
 };
 
-export default Homepage;
+export default Home;
