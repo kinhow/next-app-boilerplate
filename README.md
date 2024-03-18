@@ -38,7 +38,7 @@ This boilerplate includes support for:
 - Typescript
 - NodeJS (v20.9.0)
 - NextJS latest version (v14.1.3)
-- Husky + Pre-commit checking
+- Husky + Pre-commit Checks
 - [Eslint](https://eslint.org/)
 - [App router](https://nextjs.org/docs/app)
 - [PandaCSS](https://panda-css.com/docs/installation/nextjs?value=app-dir)
