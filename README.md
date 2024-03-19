@@ -43,3 +43,4 @@ This boilerplate includes support for:
 - [App router](https://nextjs.org/docs/app)
 - [PandaCSS](https://panda-css.com/docs/installation/nextjs?value=app-dir)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Code Standard & Project Structure](https://701search.atlassian.net/wiki/spaces/MTD/pages/3024977948/Frontend+Project+Structure)
